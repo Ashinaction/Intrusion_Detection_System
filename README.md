@@ -5,11 +5,11 @@ Video surveillance: OpenCV can be used for video analysis to detect intrusions i
 # Installation
 Use the package manager pip to install.
 
-pip install opencv-python
+1) pip install opencv-python
 
-pip install cvzone
+2) pip install cvzone
 
-pip install twilio
+3) pip install twilio
 
 # License
 https://choosealicense.com/licenses/mit/
